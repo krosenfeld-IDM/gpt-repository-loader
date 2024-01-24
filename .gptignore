@@ -16,3 +16,14 @@ LICENSE
 *.jpeg
 *.jpg
 *bin/*
+env/*
+bin/*
+LICENSE
+experiments/*
+licenses/*
+*__pycache__/*
+*.xlsx
+*.sim
+docs/*
+data/*
+regression/*
